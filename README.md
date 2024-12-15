@@ -50,8 +50,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aak-zaki/aak-zaki/output/snake.svg" alt="Snake animation" />
-
-###
